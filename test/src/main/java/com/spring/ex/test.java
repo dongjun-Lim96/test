@@ -6,5 +6,6 @@ public class test {
 	String c;
 	String d;
 	int f;  
+	int y;
 }
   
