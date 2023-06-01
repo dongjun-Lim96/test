@@ -4,6 +4,6 @@ public class test {
 	int a;   
 	String b;
 	String c;
-	
+	String d;
 }
   
