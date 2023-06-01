@@ -7,5 +7,6 @@ public class test {
 	String d;
 	int f;  
 	int y;
+	int zzz; 
 }
   
